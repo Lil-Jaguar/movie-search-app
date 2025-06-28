@@ -1,6 +1,6 @@
 # Movie Search App
 
-This is a React-based app that allows users to search movies from the OMDb API and manage a list of favorite movies.
+This is a React-based app that allows users to search movies  from the OMDb API and manage a list of favorite movies.
 
 ## Features
 - Search movies by title using the OMDb API.
