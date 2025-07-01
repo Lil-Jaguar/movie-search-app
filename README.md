@@ -32,3 +32,6 @@ The app will open at http://localhost:3000.
 Visit http://www.omdbapi.com/apikey.aspx
 
 const API_URL = "http://www.omdbapi.com?apikey=YOUR_KEY";
+
+
+Live link: https://enchanting-froyo-7459dd.netlify.app/
